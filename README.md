@@ -38,7 +38,7 @@ to detect excess gas leakage in AC or refrigeration systems.
 *The integration of these components allows for real-time monitoring of refrigerant levels. When a leak is detected, the system triggers a buzzer for immediate 
 audible alerts, ensuring rapid response. 
 
-*Additionally, the IR blaster facilitates an automatic shutdown of the AC or refrigeration system, preventing further leakage and safeguarding both occupants and the environment. 
+*Additionally, the IR blaster facilitates an automatic shutdown of the AC or refrigeration system, preventing further leakage and safeguarding both occupants and the environment.    
 
 This project not only aligns with our dedication to cutting-edge technology but also addresses critical safety and environmental concerns, showcasing our commitment to creating efficient and responsible solutions in the realm of refrigeration systems. 
 
